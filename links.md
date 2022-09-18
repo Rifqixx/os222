@@ -15,7 +15,7 @@ Do you know what the difference between User Mode and Kernel Mode? This link sho
 ## Week 02
 ### 1. [Protection in Operating System](https://www.javatpoint.com/protection-in-operating-system)
 Definition and basic understanding of protection in Operating System. Very useful for understanding protection in Operating System.
-### 2. [Understanding OS Security: Threats and Security Controls](https://www.javatpoint.com/protection-in-operating-system)
+### 2. [Understanding OS Security: Threats and Security Controls](https://www.hysolate.com/learn/sandboxing/understanding-os-security-threats-and-security-controls/)
 Definition and basic understanding of security in Operating System. Very useful for understanding OS security.
 ### 3. [Privacy vs. Security: Understanding the Difference](https://www.auditboard.com/blog/privacy-vs-security/#:~:text=Privacy%20typically%20refers%20to%20the,%2C%20leak%2C%20or%20cyber%20attack.)
 Do you know what the difference between Privacy and Security? This link should help you to understand what the difference between both.
