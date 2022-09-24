@@ -20,3 +20,10 @@ Definition and basic understanding of security in Operating System. Very useful 
 ### 3. [Privacy vs. Security: Understanding the Difference](https://www.auditboard.com/blog/privacy-vs-security/#:~:text=Privacy%20typically%20refers%20to%20the,%2C%20leak%2C%20or%20cyber%20attack.)
 Do you know what the difference between Privacy and Security? This link should help you to understand what the difference between both.
 
+## Week 03
+### 1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
+This article explains everything about file systems in operating system. Straightforward but easy to understand, what an article!
+### 2. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
+Do you know what is Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS)? This article should help you to understand what is Linux FHS.
+### 3. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+Definition and basic understanding of FUSE. This article will help you to understand about FUSE.
