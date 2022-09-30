@@ -27,3 +27,9 @@ This article explains everything about file systems in operating system. Straigh
 Do you know what is Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS)? This article should help you to understand what is Linux FHS.
 ### 3. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
 Definition and basic understanding of FUSE. This article will help you to understand about FUSE.
+
+## Week 04
+### 1. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+This article explains how static and dynamic libraries work in C programs. Easy to understand.
+### 2. [OS - (Dynamic|Shared) Library (so, dll)](https://datacadamia.com/os/shared_library#:~:text=Shared%20libraries%20are%20libraries%20that,it%20without%20using%20more%20memory.)
+Do you know what is Shared Library? This article should hep you to understand what the basic definition of Shared Library in OS.
