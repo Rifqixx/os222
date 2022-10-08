@@ -33,3 +33,9 @@ Definition and basic understanding of FUSE. This article will help you to unders
 This article explains how static and dynamic libraries work in C programs. Easy to understand.
 ### 2. [OS - (Dynamic|Shared) Library (so, dll)](https://datacadamia.com/os/shared_library#:~:text=Shared%20libraries%20are%20libraries%20that,it%20without%20using%20more%20memory.)
 Do you know what is Shared Library? This article should hep you to understand what the basic definition of Shared Library in OS.
+
+## Week 05
+### 1. [Virtual Memory in Operating System] (https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+This article explains about the concept of virtual memory in operating system, swapping, demand paging, etc. Very useful if u want to learn more about virtual memory in operating system.
+### 2. [What is virtual memory?] (https://tldp.org/LDP/sag/html/vm-intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)
+Explains about the concept of virtual memory, like previous link, but it correlates a lot with linux. Seriously, you will get some good new knowledge.
