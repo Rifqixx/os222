@@ -39,3 +39,13 @@ Do you know what is Shared Library? This article should hep you to understand wh
 This article explains about the concept of virtual memory in operating system, swapping, demand paging, etc. Very useful if u want to learn more about virtual memory in operating system.
 ### 2. [What is virtual memory?](https://tldp.org/LDP/sag/html/vm-intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)
 Explains about the concept of virtual memory, like previous link, but it correlates a lot with linux. Seriously, you will get some good new knowledge.
+
+## Week 06
+### 1. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+Do you know what is Fork? Generally, forking can be used for creating new process called child process. Do you want to know more about Fork, especially in C? This website will help you :D.
+### 2. [Coding with fork and exec by example in c](https://linuxhint.com/fork-exec-coding-c/)
+Example Fork and Exec in C.
+### 3. [Processes and Threads](https://learn.microsoft.com/en-us/windows/win32/procthread/processes-and-threads)
+An informative short article that will help you to understand this week's topic. Happy reading!
+### 4. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+Another informative article that will help you to understand this week's topic. Enjoy :D.
