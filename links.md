@@ -49,3 +49,11 @@ Example Fork and Exec in C.
 An informative short article that will help you to understand this week's topic. Happy reading!
 ### 4. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
 Another informative article that will help you to understand this week's topic. Enjoy :D.
+
+## Week 07
+### 1. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+This article explains about SCP command to securely transfer files in linux. You will get some good new knowledge from this article.
+### 2. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)
+This article explains about process synchronization in linux. Easy to understand.
+### 3. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
+This article explains about how Semaphore technique works and shows a bit of its implementation in C++ language. Very good article and easy to understand.
