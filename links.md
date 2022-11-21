@@ -57,3 +57,11 @@ This article explains about SCP command to securely transfer files in linux. You
 This article explains about process synchronization in linux. Easy to understand.
 ### 3. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
 This article explains about how Semaphore technique works and shows a bit of its implementation in C++ language. Very good article and easy to understand.
+
+## Week 08
+### 1. [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)
+Do you know what is multiple processor scheduling? Multiple processor scheduling focuses on designing the scheduling function for the system which is consist of ‘more than one processor. Interesting? This a good article will explains you about multiple processor scheduling. Enjoy :D
+### 2. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+CPU Scheduling make the CPU more efficient and faster system for an operating system. Lets dive deeper into scheduling in OS!
+### 3. [CPU Scheduling (Video Playlist)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
+Like previous link, this video playlist will explains you about CPU scheduling in operating systems. Happy Watching!
